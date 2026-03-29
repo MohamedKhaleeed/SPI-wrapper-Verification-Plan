@@ -1,1 +1,1 @@
-SPI wrapper Verification Plan
+Dual-port RAM and the SPI wrapper Verification Plan
